@@ -6,14 +6,6 @@
 
  - [Repo](https://github.com/DEMETRIUSCARTER/Redux-Store)
 
- ## Screenshots
-
- ![Home Page](/screenshots/1.png "Home Page")
-
- ![](/screenshots/2.png)
-
- ![](/screenshots/3.png)
-
  ## Built With
 
  - Redux
