@@ -6,8 +6,6 @@
 
  - [Repo](https://github.com/DEMETRIUSCARTER/Redux-Store)
 
- - [Live Application](https://github.com/SophiaAramburu/TheFinalCodeDown)
-
  ## Screenshots
 
  ![Home Page](/screenshots/1.png "Home Page")
